@@ -12,9 +12,9 @@ body {
     text-shadow: 0 0 0 white;
   }
     h1 {
-      font-size: 36px;
+      font-size: 42px;
       font-weight: normal;
-      margin: 0;
+      margin: 20px;
       color: #333;
     }
       h1 a,
@@ -26,7 +26,7 @@ body {
 /*        color: #BB0000;*/
       }
     p {
-      font-size: 18px;
+      font-size: 24px;
       line-height: 1.7em;
       margin: 5px 0px;
       color: #333;
